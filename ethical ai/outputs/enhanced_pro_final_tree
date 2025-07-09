@@ -1,0 +1,15 @@
+digraph {
+	2330263485344 [label="I appreciate your perspective on the importance of..."]
+	2330262826128 [label="I understand your concerns regarding the potential..."]
+	2330263485344 -> 2330262826128
+	2330262828624 [label="I acknowledge your concerns about the impact on st..."]
+	2330262826128 -> 2330262828624
+	2330264479440 [label="I appreciate your perspective on the importance of..."]
+	2330262826128 -> 2330264479440
+	2330264479264 [label="I understand your concerns regarding the potential..."]
+	2330263485344 -> 2330264479264
+	2330264805104 [label="I acknowledge your concerns about the impact on st..."]
+	2330264479264 -> 2330264805104
+	2330264803344 [label="I appreciate your perspective on the importance of..."]
+	2330264479264 -> 2330264803344
+}

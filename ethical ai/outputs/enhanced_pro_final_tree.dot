@@ -1,0 +1,15 @@
+digraph {
+	2028060212960 [label="While I understand your concerns about privacy and..."]
+	2028059536528 [label="While privacy and over-reliance on technology are ..."]
+	2028060212960 -> 2028059536528
+	2028059538448 [label="While I appreciate your points about privacy and t..."]
+	2028059536528 -> 2028059538448
+	2028060780240 [label="While privacy and over-reliance on technology are ..."]
+	2028059536528 -> 2028060780240
+	2028060780064 [label="I appreciate your concerns about privacy and techn..."]
+	2028060212960 -> 2028060780064
+	2028061138512 [label="While I understand your concerns about privacy and..."]
+	2028060780064 -> 2028061138512
+	2028061138352 [label="While I understand your concerns about privacy and..."]
+	2028060780064 -> 2028061138352
+}

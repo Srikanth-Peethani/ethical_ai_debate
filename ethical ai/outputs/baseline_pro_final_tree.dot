@@ -1,0 +1,15 @@
+digraph {
+	2028059770368 [label="1. AI's efficiency is undeniable, yet the looming ..."]
+	2028061197648 [label="While it's true that data breaches and biases are ..."]
+	2028059770368 -> 2028061197648
+	2028061199568 [label="I recognize the concerns regarding data breaches a..."]
+	2028061197648 -> 2028061199568
+	2028060861424 [label="While it's undeniable that data breaches and biase..."]
+	2028061197648 -> 2028060861424
+	2028060863248 [label="While it's true that data breaches and biases are ..."]
+	2028059770368 -> 2028060863248
+	2028061245520 [label="While I recognize the concerns regarding data brea..."]
+	2028060863248 -> 2028061245520
+	2028061279920 [label="I recognize the concerns regarding data breaches a..."]
+	2028060863248 -> 2028061279920
+}

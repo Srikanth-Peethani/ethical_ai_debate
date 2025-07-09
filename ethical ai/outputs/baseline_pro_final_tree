@@ -1,0 +1,15 @@
+digraph {
+	2330264815664 [label="While the Stanford initiative has made strides usi..."]
+	2330264880144 [label="While the Stanford initiative'in use of artificial..."]
+	2330264815664 -> 2330264880144
+	2330264882064 [label="While it's true that the Stanford initiative has d..."]
+	2330264880144 -> 2330264882064
+	2330264495088 [label="I recognize that the Stanford initiative's use of ..."]
+	2330264880144 -> 2330264495088
+	2330264496912 [label="While the Stanford initiative'in personalized tuto..."]
+	2330264815664 -> 2330264496912
+	2330264928624 [label="The Stanford initiative's use of AI for identifyin..."]
+	2330264496912 -> 2330264928624
+	2330264962736 [label="1. While the Stanford initiative's AI-driven perso..."]
+	2330264496912 -> 2330264962736
+}
