@@ -3,8 +3,11 @@
 ## Overview
 This project implements a structured two-agent debate system using rehearsal trees and theory-of-mind modeling. The goal is to simulate strategic argumentation between two AI agents and evaluate how cognitive modeling improves persuasive reasoning.
 
-## Methodology
+## 📽️ Watch the Presentation Video
+[![Watch on YouTube](https://img.youtube.com/vi/3Fl0287ug4s/0.jpg)](https://youtu.be/3Fl0287ug4s)
+Click the thumbnail above or use this link: [https://youtu.be/3Fl0287ug4s](https://youtu.be/3Fl0287ug4s)
 
+## Methodology
 ### Rehearsal Trees
 Agents build trees of potential responses before answering. Each node is scored based on logical consistency, evidence, and persuasiveness.
 
